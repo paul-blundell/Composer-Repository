@@ -12,8 +12,10 @@ After cloning the repo
 1. Run the following commands from your terminal:
     ```
     composer install
+    
     php satis-build.php (output-dir)
     ```
+    
 When running the build script you can optionally specify the output directory, the default value is htdocs.
 
 ## Using the Repository / SSH Keys
