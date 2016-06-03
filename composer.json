@@ -1,0 +1,8 @@
+{
+    "require": {
+    	"composer/composer": "*",
+    	"composer/satis": "@dev",
+        "gentle/bitbucket-api": "^0.6.2"
+    },
+    "minimum-stability": "dev"
+}
